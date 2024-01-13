@@ -1,7 +1,7 @@
 # AmadeusCaseStudy
 Amadeus Travel To Future Program Case Study
 
-3 Modules have been developed. 
+4 Modules have been developed. 
 These are:
 -FlightAddScheduler
 -FlightSearchAPIService
