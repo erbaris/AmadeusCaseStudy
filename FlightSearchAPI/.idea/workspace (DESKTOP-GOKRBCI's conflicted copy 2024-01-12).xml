@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a989e82d-2ff4-4456-bd11-e7a97d5a4bda" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2alpOh6KOdzZydlUMX0Zv5FK3kk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Maven.FlightSearchAPI [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.FlightSearchAPI [compile].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.FlightSearchAPI [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.FlightSearchAPIService [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.FlightSearchAPIService [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RepositoryLib [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.RepositoryLib [install].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ServiceLib [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.ServiceLib [install].executor&quot;: &quot;Run&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.FlightAddSchedulerSerivceApp.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.FlightSearchApiServiceApp.executor&quot;: &quot;Run&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Bilko-BER/Dropbox/Java_Projects_BER_22/Study/FlightSearchAPI/FlightSearchAPI/FlightAddScheduler/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Bilko-BER\Dropbox\Java_Projects_BER_22\Study\FlightSearchAPI\FlightSearchAPI\FlightAddScheduler\src\main\resources" />
+      <recent name="C:\Users\Bilko-BER\Dropbox\Java_Projects_BER_22\Study\FlightSearchAPI\FlightSearchAPI\FlightSearchAPIService\src\main\resources" />
+      <recent name="C:\Users\BER-Monster\Dropbox\Java_Projects_BER_22\Study\FlightSearchAPI\FlightSearchAPI\FlightSearchAPIService\src\main\resources" />
+      <recent name="C:\Java_Kotlin_App\Study\FlightSearchAPI\FlightSearchAPI\FlightSearchAPIService\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Bilko-BER\Dropbox\Java_Projects_BER_22\Study\FlightSearchAPI\FlightSearchAPI\FlightSearchAPIService\src\main\resources" />
+      <recent name="C:\Users\Bilko-BER\Dropbox\Java_Projects_BER_22\Study\FlightSearchAPI\FlightSearchAPI\RepositoryLib\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.erbaris.app.flightsearch.configuration.security.dev" />
+      <recent name="com.erbaris.app.flightsearch.configuration" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.FlightAddSchedulerSerivceApp">
+    <configuration name="flights.sql" type="DatabaseScript" editBeforeRun="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/FlightSearchAPIService/src/main/resources/flights.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <configuration name="FlightAddSchedulerSerivceApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FlightAddScheduler" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.erbaris.app.flightsearch.scheduler.FlightAddSchedulerSerivceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightSearchApiServiceApp" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="FlightSearchAPIService" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.erbaris.app.flightsearch.FlightSearchApiServiceApp" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-f644763e9732-ebaef533" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a989e82d-2ff4-4456-bd11-e7a97d5a4bda" name="Changes" comment="" />
+      <created>1704902995352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704902995352</updated>
+      <workItem from="1704902996442" duration="8197000" />
+      <workItem from="1704921582610" duration="1821000" />
+      <workItem from="1704953485278" duration="53000" />
+      <workItem from="1704953955846" duration="21857000" />
+      <workItem from="1704995152947" duration="16444000" />
+      <workItem from="1705037520795" duration="1465000" />
+      <workItem from="1705047555598" duration="6226000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
